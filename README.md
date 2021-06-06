@@ -35,7 +35,7 @@ Will produce the propagations:
 
 ## Code
 
-You are asked to implement 2 major files, `node.py` and `tree.py`.
+Implement 2 major files, `node.py` and `tree.py`.
 
 ### node.py
 
